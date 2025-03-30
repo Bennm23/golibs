@@ -3,7 +3,7 @@ package structures_test
 import (
 	"testing"
 
-	"github.com/Bennm23/golib/structures"
+	"github.com/Bennm23/golibs/structures"
 )
 
 func TestNewStack(t *testing.T) {

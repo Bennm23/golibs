@@ -1,6 +1,6 @@
 package structures
 
-import "github.com/Bennm23/golib/maths"
+import "github.com/Bennm23/golibs/maths"
 
 
 type List[T comparable] []T

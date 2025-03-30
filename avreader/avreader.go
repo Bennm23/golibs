@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Bennm23/golib/maths"
+	"github.com/Bennm23/golibs/maths"
 )
 
 const FILE_PATH = "/home/benn/CODE/adventCode/2024/inputs/"

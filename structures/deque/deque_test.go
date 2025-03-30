@@ -3,7 +3,7 @@ package deque_test
 import (
 	"testing"
 
-	"github.com/Bennm23/golib/structures/deque"
+	"github.com/Bennm23/golibs/structures/deque"
 )
 
 func TestNewDeque(t *testing.T) {
